@@ -1,16 +1,23 @@
-## Hi there 👋
+# Seonghun Kim
 
-<!--
-**zenith82114/zenith82114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Research Interests
 
-Here are some ideas to get you started:
+- LLM S/W optimization
+- Linear RNNs (e.g., State Space Models) and hybrid architectures
+- Neural network quantization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Problem Solving / Competitive Programming
+
+- BOJ
+
+[![solved.ac badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=zenith82114)](https://solved.ac/zenith82114/)
+
+- AtCoder
+
+[![AtCoder badge](https://atcoder.junah.dev/v2/generate_badge?name=zenith82114)](https://atcoder.jp/users/zenith82114)
+
+## History
+
+- MS: CMALAB, Seoul National University (2023.9 ~)
+- BS: Computer Science and Engineering, Seoul National University (2017.3 ~ 2023.2)
+- DongSan Christian High (2014.3 ~ 2017.2)
