@@ -15,7 +15,6 @@
 
 ## Problem Solving
 
-- [JUNGOL](https://jungol.co.kr/account/144951)
 - [QOJ](https://qoj.ac/user/profile/zenith82114)
 - Baekjoon Online Judge (until 2026.4.28, Rank #92)
 
